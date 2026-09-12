@@ -1,0 +1,13 @@
+Third-party dataset attribution
+===============================
+
+The number, Chinese name, pinyin, and common English title fields in
+data/hexagrams.json are adapted from:
+
+  FENGTING2025/iching-64-hexagrams-json
+  https://github.com/FENGTING2025/iching-64-hexagrams-json
+
+The upstream dataset is distributed under the MIT License. Its README states
+that attribution is appreciated but not required. Retrieval descriptions,
+universal cue mappings, model code, and synthetic dream records in this
+repository are newly authored for this project.

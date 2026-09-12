@@ -1,0 +1,16 @@
+seed: 2026
+backbone_name: sentence-transformers/all-MiniLM-L6-v2
+max_dream_length: 128
+max_symbol_length: 192
+top_k: 5
+mode: full
+batch_size: 16
+epochs: 30
+learning_rate: 1.0e-5
+weight_decay: 0.01
+dropout: 0.1
+attention_heads: 6
+alpha: 1.0
+gradient_clip: 1.0
+patience: 6
+num_workers: 0

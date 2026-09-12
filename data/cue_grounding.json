@@ -1,0 +1,65 @@
+{
+  "description": "Research annotations for auditable universal-cue to I Ching grounding. These are modeling choices, not clinical or universal interpretations.",
+  "cues": {
+    "WATER": {
+      "aliases": ["water", "river", "flood", "ocean", "wave", "rain"],
+      "hexagram_ids": [29, 48, 59],
+      "psychological_tags": ["uncertainty", "overwhelm", "emotional flow"]
+    },
+    "FIRE": {
+      "aliases": ["fire", "burning", "flame", "blaze", "explosion"],
+      "hexagram_ids": [30, 49, 55],
+      "psychological_tags": ["intensity", "anger", "transformation"]
+    },
+    "ASCENT": {
+      "aliases": ["climb", "climbing", "ascend", "stairs", "mountain", "upward"],
+      "hexagram_ids": [1, 35, 46],
+      "psychological_tags": ["agency", "striving", "growth"]
+    },
+    "DARKNESS": {
+      "aliases": ["dark", "darkness", "night", "shadow", "cannot see"],
+      "hexagram_ids": [29, 36, 47],
+      "psychological_tags": ["uncertainty", "hidden risk", "fear"]
+    },
+    "LIGHT": {
+      "aliases": ["light", "bright", "sunlight", "glow", "illumination"],
+      "hexagram_ids": [30, 35, 55],
+      "psychological_tags": ["clarity", "hope", "resolution"]
+    },
+    "OBSTACLE": {
+      "aliases": ["wall", "blocked", "stuck", "obstacle", "closed door"],
+      "hexagram_ids": [39, 47, 52],
+      "psychological_tags": ["impasse", "inhibition", "stagnation"]
+    },
+    "LOST": {
+      "aliases": ["lost", "maze", "corridor", "endless road", "cannot find home"],
+      "hexagram_ids": [4, 29, 56],
+      "psychological_tags": ["disorientation", "transition", "need for guidance"]
+    },
+    "MIRROR": {
+      "aliases": ["mirror", "reflection", "double", "multiple selves"],
+      "hexagram_ids": [2, 20, 38],
+      "psychological_tags": ["reflection", "identity", "opposition"]
+    },
+    "CHASE": {
+      "aliases": ["chased", "pursued", "running away", "escape", "hunter"],
+      "hexagram_ids": [33, 40, 51],
+      "psychological_tags": ["threat", "avoidance", "arousal"]
+    },
+    "HOME": {
+      "aliases": ["home", "house", "family", "room", "childhood home"],
+      "hexagram_ids": [37, 48, 50],
+      "psychological_tags": ["belonging", "memory", "security"]
+    },
+    "FALLING": {
+      "aliases": ["fall", "falling", "drop", "plunge", "collapse"],
+      "hexagram_ids": [23, 28, 29],
+      "psychological_tags": ["loss of control", "instability", "fear"]
+    },
+    "FLIGHT": {
+      "aliases": ["fly", "flying", "floating", "wings", "soaring"],
+      "hexagram_ids": [1, 14, 56],
+      "psychological_tags": ["freedom", "agency", "distance"]
+    }
+  }
+}

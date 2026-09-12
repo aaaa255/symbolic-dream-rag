@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the paper."
+title: "Symbolic Dream RAG"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Muchen
+version: 0.1.0
+date-released: 2026-09-12
+preferred-citation:
+  type: conference-paper
+  title: "Integrating Symbolic Cultural Knowledge into Neural Dream Understanding: A Retrieval-Augmented Approach"
+  authors:
+    - family-names: Liu
+      given-names: Muchen
+  year: 2026
+  conference:
+    name: "The 5th International Conference on Computer, Artificial Intelligence and Control Engineering (CAICE 2026)"
+  doi: 10.1145/3804601.3804625
